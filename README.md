@@ -11,7 +11,7 @@ Intern Computer Vision Engineer, GOSNIIAS: 2021-11 -- Now
 ## Skills
 Python + ML: Pytorch, OpenCV, Scikit-Learn, NumPy, Pandas, Matplotlib, Seaborn
 
-Other: C++, CUDA, Docker, Git, Linux, Latex, Spark
+Other: C++, CUDA, PySpark, Docker, Git, Linux, Latex
 
 # Courses and Books
 [18.06: Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
