@@ -3,7 +3,7 @@
 ## Education
 Just about to finish my Bachelor's Degree in Applied Math and Computer Science at the Moscow Aviation Institute.
 
-Currently doing research and writing a diploma on semantic segmentation of satellite images.
+Currently doing research and writing my diploma on semantic segmentation of satellite images.
 
 ## Experience
 Intern Computer Vision Engineer, GOSNIIAS: 2021-11 -- Now
