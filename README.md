@@ -6,7 +6,7 @@ Just about to finish my Bachelor's Degree in Applied Math and Computer Science a
 Currently doing research and writing my diploma on semantic segmentation of satellite images.
 
 ## Experience
-Intern Computer Vision Engineer, GOSNIIAS: 2021-11 -- Now
+Computer Vision Engineer, GOSNIIAS: 2021-11 -- Now
 
 ## Skills
 Python + ML: Pytorch, OpenCV, Scikit-Learn, NumPy, Pandas, Matplotlib, Seaborn
