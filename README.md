@@ -20,7 +20,7 @@ Other: C++, CUDA, Docker, Git, Linux, LaTeX
 
 [CS229: Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh)
 
-[Deep Learning Specialization](https://ru.coursera.org/specializations/deep-learning)
+[Deep Learning Specialization by DeepLearning.AI](https://ru.coursera.org/specializations/deep-learning)
 
 [Approaching (Almost) Any Machine Learning Problem](https://www.amazon.com/Approaching-Almost-Machine-Learning-Problem-ebook/dp/B089P13QHT)
 
