@@ -11,7 +11,7 @@ Intern Computer Vision Engineer, GOSNIIAS: 2021-11 -- Now
 ## Skills
 Python + ML: Pytorch, OpenCV, Scikit-Learn, NumPy, Pandas, Matplotlib, Seaborn
 
-Other: C++, CUDA, PySpark, Docker, Git, Linux, LaTeX
+Other: C++, CUDA, Docker, Git, Linux, LaTeX
 
 # Courses and Books
 [18.06: Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
@@ -27,3 +27,5 @@ Other: C++, CUDA, PySpark, Docker, Git, Linux, LaTeX
 How to Win a Data Science Competition: Learn from Top Kagglers
 
 [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/)
+
+In progress: [MLOps and Production Approach to ML Research](https://ods.ai/tracks/ml-in-production-spring-22)
