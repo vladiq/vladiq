@@ -28,4 +28,6 @@ How to Win a Data Science Competition: Learn from Top Kagglers
 
 [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/)
 
+[SQL for Data Analysis](https://stepik.org/course/116332/info)
+
 In progress: [MLOps and Production Approach to ML Research](https://ods.ai/tracks/ml-in-production-spring-22)
