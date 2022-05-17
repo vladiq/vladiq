@@ -9,9 +9,11 @@ Currently doing research and writing my diploma on semantic segmentation of sate
 Computer Vision Engineer, GOSNIIAS: 2021-11 -- Now
 
 ## Skills
-Python + ML: Pytorch, OpenCV, Scikit-Learn, NumPy, Pandas, Matplotlib, Seaborn
+Data Science: Python, SQL, Pytorch, OpenCV, Scikit-Learn, NumPy, Pandas, Matplotlib, Seaborn
 
 Other: C++, CUDA, Docker, Git, Linux, LaTeX
+
+Learning now: Scala, Spark, Hadoop
 
 # Courses and Books
 [18.06: Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
