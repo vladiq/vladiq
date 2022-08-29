@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm Vlad
 
 ## Education
-Just about to finish my Bachelor's Degree in Applied Math and Computer Science at the Moscow Aviation Institute.
-
-Currently doing research and writing my diploma on semantic segmentation of satellite images.
+Bachelor's Degree in Applied Math and Computer Science @ Moscow Aviation Institute
+On my way to Master's.
 
 ## Experience
 Computer Vision Engineer, GOSNIIAS: 2021-11 -- 2022-06
+Data Scientist, Sberbank: 2022-06 -- Now
 
 ## Skills
 Data Science: Python, SQL, Pytorch, Scikit-Learn, NumPy, Pandas, Matplotlib, Seaborn
