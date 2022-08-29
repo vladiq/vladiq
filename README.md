@@ -2,10 +2,12 @@
 
 ## Education
 Bachelor's Degree in Applied Math and Computer Science @ Moscow Aviation Institute
+
 On my way to Master's.
 
 ## Experience
 Computer Vision Engineer, GOSNIIAS: 2021-11 -- 2022-06
+
 Data Scientist, Sberbank: 2022-06 -- Now
 
 ## Skills
@@ -13,7 +15,7 @@ Data Science: Python, SQL, Pytorch, Scikit-Learn, NumPy, Pandas, Matplotlib, Sea
 
 Other: C++, CUDA C++, Docker, Git, Linux, LaTeX
 
-Learning now: Scala
+Learning now: Golang
 
 # Courses and Books
 [18.06: Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
