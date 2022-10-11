@@ -15,7 +15,7 @@ Data Science: Python, SQL, Pytorch, Scikit-Learn, NumPy, Pandas, Matplotlib, Sea
 
 Other: Docker, Git, Linux, LaTeX
 
-Learning now: Golang Dev course @ Wildberries, check my repos for the projects!
+Learning now: Golang Development Course @ Wildberries. Check my repos for the projects!
 
 # Courses and Books
 [18.06: Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
