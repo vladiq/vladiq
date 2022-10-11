@@ -1,9 +1,12 @@
 ### Hi there 👋 I'm Vlad
 
+[![Telegram contact][telegram_badge]][telegram_link]
+[![Leetcode profile][leetcode_badge]][leetcode_link]
+
 ## Education
 Bachelor's Degree in Applied Math and Computer Science @ Moscow Aviation Institute
 
-On my way to Master's.
+📚 On my way to Master's.
 
 ## Experience
 Computer Vision Engineer @ GOSNIIAS: 2021-11 -- 2022-06
@@ -33,3 +36,12 @@ How to Win a Data Science Competition: Learn from Top Kagglers
 [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/)
 
 [SQL for Data Analysis](https://stepik.org/course/116332/info)
+
+
+
+[telegram_link]: https://t.me/ketsuwotaberu
+[telegram_badge]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "Telegram contact"
+
+[leetcode_link]: https://leetcode.com/ok_illtry
+[leetcode_badge]: https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black "Leetcode profile"
+
