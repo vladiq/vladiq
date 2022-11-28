@@ -42,6 +42,6 @@ How to Win a Data Science Competition: Learn from Top Kagglers
 [telegram_link]: https://t.me/ketsuwotaberu
 [telegram_badge]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "Telegram contact"
 
-[leetcode_link]: https://leetcode.com/ok_illtry
+[leetcode_link]: https://leetcode.com/vladiq
 [leetcode_badge]: https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black "Leetcode profile"
 
