@@ -16,7 +16,7 @@ Data Scientist @ Sberbank: 2022-06 -- Now
 ## Skills
 Development: Go, Python, SQL, Docker, Git
 
-Data Science: Python, SQL, Pytorch, Scikit-Learn, NumPy, Pandas, Matplotlib, Seaborn
+Data Science: PyTorch, Scikit-Learn, NumPy, Pandas, Matplotlib, Seaborn
 
 Other: Linux, LaTeX
 
