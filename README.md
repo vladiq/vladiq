@@ -3,20 +3,18 @@
 [![Telegram contact][telegram_badge]][telegram_link]
 [![Leetcode profile][leetcode_badge]][leetcode_link]
 
-## Education
+## Education 🎓
 Bachelor's Degree in Applied Math and Computer Science @ Moscow Aviation Institute
 
-📚 On the way to Master's.
-
-## Experience
+## Experience 🧑🏻‍💻
 Golang Backend Developer @ Wildberries: 2022-12 -- now
 
-Data Scientist @ Sberbank: 2022-06 -- 2022-12
+Data Scientist @ Sber: 2022-06 -- 2022-12
 
 Computer Vision Engineer @ GOSNIIAS: 2021-11 -- 2022-06
 
-## Skills
-Development: Go, Python, SQL, PostgreSQL, Docker, Git, Linux
+## Skills 🛠️
+Software Engineering: Go, Python, SQL, PostgreSQL, ClickHouse, Prometheus, Grafana, Kubernetes, Docker, Git, Linux
 
 Data Science: PyTorch, Scikit-Learn, NumPy, Pandas, Matplotlib, Seaborn
 
